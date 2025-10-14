@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1760451744 source:e:\training\data structure&algorithms\fp_ds\main.cpp
+	<iostream>
+	"Book.h"
+	"DoubleLinkedList.h"
+
+1760447726 e:\training\data structure&algorithms\fp_ds\include\book.h
+	<iostream>
+	<string>
+
+1760450621 e:\training\data structure&algorithms\fp_ds\include\doublelinkedlist.h
+	<iostream>
+	"Book.h"
+
